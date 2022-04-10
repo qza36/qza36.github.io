@@ -4,30 +4,11 @@
   
   
   <entry>
-    <title>text</title>
-    <link href="/2022/04/10/text/"/>
-    <url>/2022/04/10/text/</url>
+    <title></title>
+    <link href="/2022/04/10/%E6%B3%A2%E7%9A%84%E5%8F%8D%E5%B0%84%E3%80%81%E6%8A%98%E5%B0%84%E5%92%8C%E8%A1%8D%E5%B0%84%2027a92/"/>
+    <url>/2022/04/10/%E6%B3%A2%E7%9A%84%E5%8F%8D%E5%B0%84%E3%80%81%E6%8A%98%E5%B0%84%E5%92%8C%E8%A1%8D%E5%B0%84%2027a92/</url>
     
-    <content type="html"><![CDATA[<p>这是测试文章</p><img src="/2022/04/10/text/aa2.jpg" class="" title="This is an example image">]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>测试</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2022/04/10/hello-world/"/>
-    <url>/2022/04/10/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="波的反射、折射和衍射"><a href="#波的反射、折射和衍射" class="headerlink" title="波的反射、折射和衍射"></a>波的反射、折射和衍射</h1><p>Class: 物理<br>Created: March 16, 2022 1:47 PM</p><h2 id="波的反射"><a href="#波的反射" class="headerlink" title="波的反射"></a>波的反射</h2><ul><li><p>当波被传播到两种介质的分界面是，一部分呢返回来继续传播的现象</p></li><li><p>反射定律</p><ul><li>入射角、法线、反射线在同一平面内，入射线与反射线分居法线两侧，反射角等于入射角</li><li>反射波的波长、频率、波速总是和入射波相同。</li><li>波遇到两种介质界面是，总是反射。</li></ul><hr></li></ul><h2 id="波的折射"><a href="#波的折射" class="headerlink" title="波的折射"></a>波的折射</h2><ul><li><p>波从一种介质进入到另一种介质是，波的传播方向发生改变的现象。</p></li><li><p>折射定律</p><ul><li>入射线、法线、折射线在同一平面内，入射线与折射线分居两侧。</li><li>入射角的正弦值跟反射角的正弦值之比等于波在第一种介质中的速度跟波在第二种介质中的速度之比。</li></ul><hr></li></ul><h2 id="波的衍射"><a href="#波的衍射" class="headerlink" title="波的衍射"></a>波的衍射</h2><ul><li><p>波绕过障碍物继续传播的现象叫做波的衍射</p></li><li><p>一切波都能发生衍射，衍射是波特有的现象。</p></li><li><p>实质</p><ul><li>振动的形式和能量传到障碍物后方的阴影区域中</li></ul></li><li><p>发生条件</p><ul><li>缝、孔的宽度或障碍物尺寸与波长相差不多或者比波长更小时，才能观察到明显的衍射现象。</li></ul></li><li><p>注意</p><ul><li>衍射是波特有的现象，一切波都会产生衍射现象。</li><li>衍射的现象总是存在的，只有明显与不明显的关系。</li><li>障碍物活孔的大小，并不是决定衍射能否发生的条件，而是发生明显衍射的条件。</li><li>一般情况下，波长较大的波容易产生明显的衍射现象。</li></ul><hr></li></ul><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><table><thead><tr><th>波现象</th><th>反射</th><th>折射</th></tr></thead><tbody><tr><td>传播方向</td><td>改变 反射角等于入射角</td><td>改变 折射角不等于入射角</td></tr><tr><td>频率</td><td>不变</td><td>不变</td></tr><tr><td>波速</td><td>不变</td><td>改变</td></tr><tr><td>波长</td><td>不变</td><td>改变</td></tr></tbody></table>]]></content>
     
     
     
